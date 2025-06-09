@@ -1,6 +1,6 @@
 # Particle-Based SIR Model Simulation
 
-## Overview 
+## Overview
 This simulation models the spread of an infection among a population of particles (representing people) within a building environment with elevators, floors, and lobbies. The particles move, interact, get infected, recover, and develop immunity, with the immunity eventually waning over time. The simulation is visualized using `matplotlib`, and the SIR (Susceptible, Infected, Recovered) data is plotted over time.
 
 ## Features 
